@@ -8,7 +8,12 @@ Soy Lau, una apasionada desarrolladora web con un amor por el código y la creat
 Aunque mi enfoque principal es el **frontend**, también tengo una sólida experiencia en el desarrollo Full Stack.<br>
 Mi previa formación en diseño gráfico me inspira a buscar la armonía entre la estética y la funcionalidad en mis desarrollos.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vue,vite,tailwind,emotion,ruby,rails,postgres,figma,git,netlify)](https://skillicons.dev)
+#### → Frontend
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vue,vite,tailwind,emotion)
+#### → Backend
+![My Skills](https://skillicons.dev/icons?i=ruby,rails,postgres)
+#### → Tools
+![My Skills](https://skillicons.dev/icons?i=figma,ai,git,netlify)
 
 
 ## 💡 Lo Que Hago
