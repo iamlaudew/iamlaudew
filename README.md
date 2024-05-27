@@ -9,11 +9,11 @@ Aunque mi enfoque principal es el **frontend**, también tengo una sólida exper
 Mi previa formación en diseño gráfico me inspira a buscar la armonía entre la estética y la funcionalidad en mis desarrollos.
 
 #### → Frontend
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vue,vite,tailwind,emotion)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,emotion,astro)
 #### → Backend
 ![My Skills](https://skillicons.dev/icons?i=ruby,rails,postgres)
 #### → Tools
-![My Skills](https://skillicons.dev/icons?i=figma,ai,git,netlify)
+![My Skills](https://skillicons.dev/icons?i=figma,ai,git,github,netlify)
 
 
 ## 💡 Lo Que Hago
