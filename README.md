@@ -9,7 +9,7 @@ Aunque mi enfoque principal es el **frontend**, también tengo una sólida exper
 Mi previa formación en diseño gráfico me inspira a buscar la armonía entre la estética y la funcionalidad en mis desarrollos.
 
 #### → Frontend
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,emotion,astro)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,vite,tailwind,emotion,astro)
 #### → Backend
 ![My Skills](https://skillicons.dev/icons?i=ruby,rails,postgres)
 #### → Tools
@@ -23,6 +23,6 @@ Mi previa formación en diseño gráfico me inspira a buscar la armonía entre l
 
 ## 📫 ¡Hablemos!
 
-Si deseas charlar, no dudes en contactarme a través de [hola@iamlaudew.com](mailto:hola@iamlaudew.com)
+Si deseas charlar, no dudes en contactarme a través de [lrlugo@outlook.com](mailto:lrlugo@outlook.com)
 
 ¡Gracias por visitar mi perfil! 😊
