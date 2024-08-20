@@ -18,7 +18,8 @@ Mi previa formación en diseño gráfico me inspira a buscar la armonía entre l
 
 ## 💡 Lo Que Hago
 
--   👩🏻‍💻 Desarrollo de experiencias web cautivadoras y funcionales.
+-   🌐 Desarrollo de sitios y aplicaciones web.
+-   👩🏻‍💻 Diseño de experiencias web cautivadoras y funcionales.
 -   🎉 Creación de prototipos dinámicos y atractivos con Figma.
 
 ## 📫 ¡Hablemos!
